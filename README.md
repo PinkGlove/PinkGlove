@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PinkGlove
 - 👀 I’m interested in basketball and guitar
-- 🌱 I’m currently learning Python and Network
+- 🌱 I’m currently learning Python and Algorithms
 - 📫 How to reach me : Don't wanna say that xD
 
 <!---
